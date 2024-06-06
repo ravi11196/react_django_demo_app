@@ -2,6 +2,6 @@ version: '3.10'
 
 services:
   web:
-    image: Ori-webapp:latest
+    image: ori-webapp:latest
     ports:
       - "8001:8001"
